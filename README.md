@@ -1,13 +1,13 @@
-# Hi, I'm Manya 👋
+# Hi, I'm Manya 🙋‍♀️
 
-CS grad student at **Arizona State University**, building across the full stack — from web apps and iOS to machine learning and blockchain systems.
+CS grad student at **Arizona State University**, building across the full stack from web apps to machine learning and blockchain systems.
 
 ## 🛠 Tech stack
 
 **Languages:** JavaScript · Python · Swift · C# · SQL  
 **Web:** Next.js · React · Node.js · CSS  
 **Mobile:** Swift · iOS (UIKit / SwiftUI)  
-**AI / ML:** NLP · Machine Learning · Blockchain  
+**AI / ML:** NLP · Machine Learning · Blockchain · RAG    
 **Tools:** Git · GitHub · REST APIs · SQLite
 
 ## 🚀 Featured projects
@@ -21,5 +21,5 @@ CS grad student at **Arizona State University**, building across the full stack 
 ## 📫 Let's connect
 
 🎓 M.S. Computer Science — Arizona State University  
-💼 Open to full-time Software Engineering roles (2025)  
-📧 Reach me via [LinkedIn]([https://www.linkedin.com/in/manya-mehta-165a9224a/])
+💼 Open to full-time Software Engineering roles  
+📧 [LinkedIn — Manya Mehta](https://www.linkedin.com/in/manya-mehta-165a9224a/)
