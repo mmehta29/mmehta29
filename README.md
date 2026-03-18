@@ -22,4 +22,4 @@ CS grad student at **Arizona State University**, building across the full stack 
 
 🎓 M.S. Computer Science — Arizona State University  
 💼 Open to full-time Software Engineering roles (2025)  
-📧 Reach me via [LinkedIn]([https://linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/manya-mehta-165a9224a/))
+📧 Reach me via [LinkedIn]([https://www.linkedin.com/in/manya-mehta-165a9224a/])
