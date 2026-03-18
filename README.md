@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Manya 👋
 
-<!--
-**mmehta29/mmehta29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS grad student at **Arizona State University**, building across the full stack — from web apps and iOS to machine learning and blockchain systems.
 
-Here are some ideas to get you started:
+## 🛠 Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript · Python · Swift · C# · SQL  
+**Web:** Next.js · React · Node.js · CSS  
+**Mobile:** Swift · iOS (UIKit / SwiftUI)  
+**AI / ML:** NLP · Machine Learning · Blockchain  
+**Tools:** Git · GitHub · REST APIs · SQLite
+
+## 🚀 Featured projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Stock Market Dashboard](https://github.com/mmehta29/Stock-market-dashboard) | Real-time stock data visualization and tracking | JavaScript |
+| [Next.js Web App](https://github.com/mmehta29/nextjs-website) | Full-stack e-commerce app with SQLite backend | Next.js · JS · SQLite |
+| [coffeHub](https://github.com/mmehta29/coffeHub) | iOS app for discovering local coffee shops | Swift |
+
+## 📫 Let's connect
+
+🎓 M.S. Computer Science — Arizona State University  
+💼 Open to full-time Software Engineering roles (2025)  
+📧 Reach me via [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
