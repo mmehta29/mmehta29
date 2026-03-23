@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a senior CS student completing a combined M.S./B.S. at Arizona State University, graduating May 2026 with a 4.0 GPA. I build across the full stack — from React and Next.js frontends to Java/Spring Boot backends — and have been working increasingly in ML/AI, including RAG pipelines, LLM prompt engineering, and recommendation systems. I'm actively seeking full-time roles in **Software Engineering** or **ML/AI**.
+I'm a senior CS student completing a combined M.S./B.S. at Arizona State University, graduating May 2026 with a 4.0 GPA. I build across the full stack from React and Next.js frontends to Java/Spring Boot backends and have been working increasingly in ML/AI, including RAG pipelines, LLM prompt engineering, and recommendation systems. I'm actively seeking full-time roles in **Software Engineering** or **ML/AI**.
 
 ---
 
