@@ -4,6 +4,8 @@
 
 **M.S./B.S. Computer Science @ Arizona State University · Graduating May 2026**
 
+![](https://komarev.com/ghpvc/?username=mmehta29)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-mehta-165a9224a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manyamehta3107@gmail.com)
 
