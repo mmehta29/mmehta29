@@ -72,7 +72,7 @@ Collaborative filtering and NLP-based recommendation engine trained on Amazon pr
 
 ### [Stock Market Dashboard](https://github.com/mmehta29/Stock-market-dashboard)
 Real-time stock market dashboard with live data visualization, built with React and Tailwind CSS and deployed on Vercel.  
-🔗 [Live Demo](https://stock-market-dashboard-beryl.vercel.app) · `React` `Tailwind CSS` `JavaScript`
+`React` `Tailwind CSS` `JavaScript`
 
 ---
 
